@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Homepage
 
 You can use the [editor on GitHub](https://github.com/hrjs84/Power-Plot/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
